@@ -1,5 +1,7 @@
 # Zotero Collection Location Menu Plugin
 
+![Collection Location Menu logo](icons/icon-128.png)
+
 一个独立的 Zotero 右键菜单插件，用来查看单个条目所在的所有文件夹位置。
 
 ## 功能
@@ -13,6 +15,10 @@
 - 批量管理器用表格预览条目和所在文件夹，并提供批量跳转、批量移除、批量只保留
 - 所有移除/合并操作都会二次确认
 - 移除/合并只修改条目的 collection 位置，不删除文献条目、附件或笔记
+
+## Logo
+
+插件内置一个简洁的“文件夹 + 定位针 + 路径点线”图标，用来表达查看条目所在文件夹位置和跳转到目标文件夹的功能。
 
 子菜单示例：
 
@@ -57,7 +63,7 @@ bash build.sh
 
 构建产物会出现在：
 
-- `dist/zotero-collection-location-menu-plugin-0.4.0.xpi`
+- `dist/zotero-collection-location-menu-plugin-0.4.1.xpi`
 
 ## 安装
 
