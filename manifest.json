@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Collection Location Menu",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Show the collections containing a Zotero item from the item right-click menu.",
   "icons": {
     "48": "icons/icon-48.png",
@@ -13,7 +13,7 @@
       "id": "collection-location-menu@plugin.local",
       "update_url": "https://example.com/zotero-collection-location-menu-plugin/updates.json",
       "strict_min_version": "7.0",
-      "strict_max_version": "7.0.*"
+      "strict_max_version": "9.*"
     }
   }
 }
